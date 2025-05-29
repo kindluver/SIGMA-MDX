@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "SIGMA-MD~exBGTYJS#1kYZKfZfGgvXTbS-R7De1TSl8uQmWVEIQDLW0gak_uA"
     },  
     
     "STICKER_NAME": {
@@ -99,7 +99,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "𝐒𝐈𝐆𝐌𝐀 𝐌𝐃𝐗"
+      "value": "KINDBOT"
 
       }, 
 
